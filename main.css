@@ -1,15 +1,3 @@
-/* .menuBack {
-    background-color: rgb(50, 50, 50);
-    box-sizing: content-box;
-    padding: 15px;
-}
-
-.menu {
-    box-sizing: border-box;
-    padding: 30px;
-    color: rgb(200, 200, 200);
-} */
-
 .menuBack {
     display: flex;
     background-color: rgb(40, 40, 40);
